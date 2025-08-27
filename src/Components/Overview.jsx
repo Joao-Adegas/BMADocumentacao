@@ -5,7 +5,7 @@ export function Overview() {
         <main>
             <section className={styles.containerMain}>
                 <div>
-                    <img src="public/images/Logo.png" alt="Logo do B.M.A." />
+                    <img src="/public/images/Logo.png" alt="Logo do B.M.A." />
                 </div>
 
                 <div className={styles.overviewText}>
@@ -35,7 +35,7 @@ export function Overview() {
 
             <section className={styles.containerAdvantages}>
                 <div>
-                    <img src="public/images/icone.png" alt="Icone vermelho" />
+                    <img src="/public/images/icone.png" alt="Icone vermelho" />
                 </div>
 
                 <div className={styles.advantagesText}>
